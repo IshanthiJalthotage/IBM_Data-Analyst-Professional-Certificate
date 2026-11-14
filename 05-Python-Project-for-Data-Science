@@ -1,0 +1,20 @@
+# Python Project for Data Science
+
+This folder contains my hands-on projects and assignments from the IBM Data Analyst Professional Certificate.
+
+## Course Overview
+
+This module applies Python programming concepts and data analysis techniques to explore real-world data and extract meaningful insights.
+It focuses on acquiring and interpreting key stock market data and analysing stock trends to make data-driven decisions based on visual insights 
+
+## Tools and Technologies
+- Python
+- Jupyter Notebook
+- Pandas
+- Data Visualization libraries
+
+## Project Objectives
+- Apply Python programming skills to data analysis.
+- Work with datasets using Python.
+- Perform data exploration and analysis.
+- Present findings through visualizations and analysis.
